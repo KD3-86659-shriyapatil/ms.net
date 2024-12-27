@@ -1,0 +1,7 @@
+C:\kdac .NET\Solution1\Assign1Que2\bin\Debug\Assign1Que2.exe.config
+C:\kdac .NET\Solution1\Assign1Que2\bin\Debug\Assign1Que2.exe
+C:\kdac .NET\Solution1\Assign1Que2\bin\Debug\Assign1Que2.pdb
+C:\kdac .NET\Solution1\Assign1Que2\obj\Debug\Assign1Que2.csproj.AssemblyReference.cache
+C:\kdac .NET\Solution1\Assign1Que2\obj\Debug\Assign1Que2.csproj.CoreCompileInputs.cache
+C:\kdac .NET\Solution1\Assign1Que2\obj\Debug\Assign1Que2.exe
+C:\kdac .NET\Solution1\Assign1Que2\obj\Debug\Assign1Que2.pdb

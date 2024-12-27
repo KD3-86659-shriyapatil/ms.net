@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\kdac .NET\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B70437-FD5B-4D38-BB9E-D0C1FE56BE40}|HelloCSharp\\HelloCSharp.csproj|C:\\kdac .NET\\Solution1\\hellocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B70437-FD5B-4D38-BB9E-D0C1FE56BE40}|HelloCSharp\\HelloCSharp.csproj|solutionrelative:hellocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A337C7-2E87-44E1-AB77-9711FE98AA49}|Assign1Que2\\Assign1Que2.csproj|C:\\kdac .NET\\Solution1\\assign1que2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A337C7-2E87-44E1-AB77-9711FE98AA49}|Assign1Que2\\Assign1Que2.csproj|solutionrelative:assign1que2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C684EC14-BE12-4368-BD1C-1B2B5BF8F867}|Assign1Que3\\Assign1Que3.csproj|c:\\kdac .net\\solution1\\assign1que3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C684EC14-BE12-4368-BD1C-1B2B5BF8F867}|Assign1Que3\\Assign1Que3.csproj|solutionrelative:assign1que3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\kdac .NET\\Solution1\\Assign1Que3\\Program.cs",
+              "RelativeDocumentMoniker": "Assign1Que3\\Program.cs",
+              "ToolTip": "C:\\kdac .NET\\Solution1\\Assign1Que3\\Program.cs",
+              "RelativeToolTip": "Assign1Que3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:03:12.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\kdac .NET\\Solution1\\Assign1Que2\\Program.cs",
+              "RelativeDocumentMoniker": "Assign1Que2\\Program.cs",
+              "ToolTip": "C:\\kdac .NET\\Solution1\\Assign1Que2\\Program.cs",
+              "RelativeToolTip": "Assign1Que2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:25:59.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\kdac .NET\\Solution1\\HelloCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloCSharp\\Program.cs",
+              "ToolTip": "C:\\kdac .NET\\Solution1\\HelloCSharp\\Program.cs",
+              "RelativeToolTip": "HelloCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:54:34.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

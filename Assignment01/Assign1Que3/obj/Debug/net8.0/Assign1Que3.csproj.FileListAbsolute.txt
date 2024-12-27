@@ -1,0 +1,14 @@
+C:\kdac .NET\Solution1\Assign1Que3\bin\Debug\net8.0\Assign1Que3.exe
+C:\kdac .NET\Solution1\Assign1Que3\bin\Debug\net8.0\Assign1Que3.deps.json
+C:\kdac .NET\Solution1\Assign1Que3\bin\Debug\net8.0\Assign1Que3.runtimeconfig.json
+C:\kdac .NET\Solution1\Assign1Que3\bin\Debug\net8.0\Assign1Que3.dll
+C:\kdac .NET\Solution1\Assign1Que3\bin\Debug\net8.0\Assign1Que3.pdb
+C:\kdac .NET\Solution1\Assign1Que3\obj\Debug\net8.0\Assign1Que3.GeneratedMSBuildEditorConfig.editorconfig
+C:\kdac .NET\Solution1\Assign1Que3\obj\Debug\net8.0\Assign1Que3.AssemblyInfoInputs.cache
+C:\kdac .NET\Solution1\Assign1Que3\obj\Debug\net8.0\Assign1Que3.AssemblyInfo.cs
+C:\kdac .NET\Solution1\Assign1Que3\obj\Debug\net8.0\Assign1Que3.csproj.CoreCompileInputs.cache
+C:\kdac .NET\Solution1\Assign1Que3\obj\Debug\net8.0\Assign1Que3.dll
+C:\kdac .NET\Solution1\Assign1Que3\obj\Debug\net8.0\refint\Assign1Que3.dll
+C:\kdac .NET\Solution1\Assign1Que3\obj\Debug\net8.0\Assign1Que3.pdb
+C:\kdac .NET\Solution1\Assign1Que3\obj\Debug\net8.0\Assign1Que3.genruntimeconfig.cache
+C:\kdac .NET\Solution1\Assign1Que3\obj\Debug\net8.0\ref\Assign1Que3.dll
