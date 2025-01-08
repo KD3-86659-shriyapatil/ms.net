@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\selfstudy\\MS.NET\\Assignment2\\Assignment02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD0B42D-0EE3-4B9A-93C1-1CA5B3CA732B}|Question02\\Question02.csproj|D:\\selfstudy\\MS.NET\\Assignment2\\Assignment02\\question02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD0B42D-0EE3-4B9A-93C1-1CA5B3CA732B}|Question02\\Question02.csproj|solutionrelative:question02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1AA200-E2CC-4D6D-A0F9-BED6D76CB949}|Assignmnet02\\Question01.csproj|d:\\selfstudy\\ms.net\\assignment2\\assignment02\\assignmnet02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1AA200-E2CC-4D6D-A0F9-BED6D76CB949}|Assignmnet02\\Question01.csproj|solutionrelative:assignmnet02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1AA200-E2CC-4D6D-A0F9-BED6D76CB949}|Assignmnet02\\Assignmnet02.csproj|D:\\selfstudy\\MS.NET\\Assignment2\\Assignment02\\assignmnet02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1AA200-E2CC-4D6D-A0F9-BED6D76CB949}|Assignmnet02\\Assignmnet02.csproj|solutionrelative:assignmnet02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\selfstudy\\MS.NET\\Assignment2\\Assignment02\\Assignmnet02\\Program.cs",
+              "RelativeDocumentMoniker": "Assignmnet02\\Program.cs",
+              "ToolTip": "D:\\selfstudy\\MS.NET\\Assignment2\\Assignment02\\Assignmnet02\\Program.cs",
+              "RelativeToolTip": "Assignmnet02\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2EAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:43:24.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\selfstudy\\MS.NET\\Assignment2\\Assignment02\\Question02\\Program.cs",
+              "RelativeDocumentMoniker": "Question02\\Program.cs",
+              "ToolTip": "D:\\selfstudy\\MS.NET\\Assignment2\\Assignment02\\Question02\\Program.cs",
+              "RelativeToolTip": "Question02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:00:40.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\selfstudy\\MS.NET\\Assignment2\\Assignment02\\Assignmnet02\\Program.cs",
+              "RelativeDocumentMoniker": "Assignmnet02\\Program.cs",
+              "ToolTip": "D:\\selfstudy\\MS.NET\\Assignment2\\Assignment02\\Assignmnet02\\Program.cs",
+              "RelativeToolTip": "Assignmnet02\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:28:32.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
